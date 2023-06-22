@@ -1,0 +1,317 @@
+.navbardiv {
+    width: 100%;
+    height: 60px;
+}
+
+.navbar {
+    width: 100%;
+    height: 60px;
+    font-weight: bold;
+    font-size: 17px;
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0), rgb(246, 121, 121));
+}
+
+.logo {
+    width: 13%;
+
+}
+
+.carousel {
+    width: 100%;
+    height: 70%;
+
+}
+
+#cimg1 {
+    width: 100%;
+    height: 700px;
+
+}
+
+#cimg2 {
+    width: 100%;
+    height: 700px;
+
+}
+
+#cimg3 {
+    width: 100%;
+    height: 700px;
+
+}
+
+
+.footer {
+    background-image: linear-gradient(to left, rgba(245, 173, 173, 0), rgb(246, 94, 94));
+    width: 100%;
+    height: 280px;
+
+
+
+}
+
+.footer1 {
+    display: flex;
+    text-align: center;
+    color: rgb(67, 44, 27);
+
+}
+
+.hospitalinfo {
+    width: 25%;
+    margin-left: 25px;
+
+
+}
+
+.services {
+    width: 30%;
+
+}
+
+.servicelist {
+    list-style-type: none;
+
+}
+
+.locationicon {
+    font-size: 30px;
+}
+
+.contact {
+    width: 30%;
+
+}
+
+.createdby {
+    text-align: center;
+
+    color: rgb(18, 17, 16);
+}
+
+#hr1 {
+    color: black;
+    width: 200px;
+    margin-left: 60px;
+}
+
+#hr2 {
+    color: black;
+    width: 200px;
+    margin-left: 85px;
+
+
+}
+
+#hr3 {
+    color: black;
+    width: 200px;
+    margin-left: 90px;
+
+
+}
+
+#hr4 {
+    color: black;
+    width: 200px;
+    margin-left: 90px;
+
+
+}
+
+
+.icon {
+    text-align: center;
+    font-size: 30px;
+    justify-content: end;
+    text-decoration: none;
+    color: rgb(67, 44, 27);
+    display: flex;
+    margin-right: 120px;
+    margin-bottom: 5px;
+}
+
+.myicon {
+    margin-left: 10px;
+}
+
+.myicon :hover {
+    font-size: 33px;
+    opacity: 80%;
+
+
+}
+
+.about {
+    background-image: url('https://expatfinancial.com/wp-content/uploads/2013/04/Confident-in-her-team-Large.jpg');
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(14, 12, 12);
+
+}
+
+.aboutcontent {
+
+    padding-top: 100px;
+    padding-left: 50px;
+
+}
+
+.aboutlist {
+    padding-left: 50px;
+    padding-top: 20px;
+    color: rgb(67, 44, 27);
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 25px;
+}
+
+.about2 {
+    background-image: url('https://www.ramq.gouv.qc.ca/sites/default/files/styles/large/public/images/promo-accueil-don-dorganes.png?itok=xMhbMlHU');
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(79, 52, 31);
+    font-size: 25px;
+}
+
+.about2content {
+    margin-left: 800px;
+    padding-top: 120px;
+}
+
+.apointmentform {
+
+    width: 600px;
+    height: 630px;
+    margin-left: 400px;
+    margin-top: 25px;
+    margin-bottom: 45px;
+    border: 2px solid rgb(194, 189, 189);
+    padding: 15px;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, rgba(245, 243, 241, 0), rgb(214, 158, 227));
+
+
+}
+
+.dischargeform {
+    width: 600px;
+    height: 550px;
+    margin-left: 400px;
+    margin-top: 55px;
+    margin-bottom: 125px;
+    border: 2px solid rgb(194, 189, 189);
+    padding: 15px;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, rgba(245, 243, 241, 0), rgb(214, 158, 227));
+
+
+
+}
+
+.roomform {
+    width: 600px;
+    height: 630px;
+    margin-left: 400px;
+    margin-top: 25px;
+    margin-bottom: 45px;
+    border: 2px solid rgb(194, 189, 189);
+    padding: 15px;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, rgba(245, 243, 241, 0), rgb(214, 158, 227));
+
+
+}
+
+.ambulanceform {
+    width: 600px;
+    height: 630px;
+    margin-left: 400px;
+    margin-top: 25px;
+    margin-bottom: 45px;
+    border: 2px solid rgb(194, 189, 189);
+    padding: 15px;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, rgba(245, 243, 241, 0), rgb(214, 158, 227));
+
+
+
+}
+
+.doctorform {
+    width: 600px;
+    height: 580px;
+    margin-left: 420px;
+    margin-top: 45px;
+    margin-bottom: 95px;
+    border: 2px solid rgb(194, 189, 189);
+    padding: 15px;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, rgba(245, 243, 241, 0), rgb(214, 158, 227));
+
+
+}
+
+.adminform {
+    width: 500px;
+    height: 300px;
+    margin-left: 500px;
+    margin-top: 200px;
+    margin-bottom: 390px;
+    border: 2px solid rgb(194, 189, 189);
+    padding: 15px;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, rgba(245, 243, 241, 0), rgb(214, 158, 227));
+}
+
+@media screen and (max-width:500px) {
+    #cimg1 {
+        width: 100%;
+        height: 300px;
+    }
+
+
+    #cimg2 {
+        width: 100%;
+        height: 300px;
+    }
+
+    #cimg3 {
+        width: 100%;
+        height: 300px;
+    }
+
+
+}
+
+@media screen and (max-width:500px) {
+    .footer1 {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .about {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .about2 {
+        display: flex;
+        flex-direction: column;
+    }
+
+}
+
+
+@media screen and (max-width:500px) {
+    .navbardiv {
+        display: flex;
+        flex-direction: column;
+    }
+
+}
